@@ -17,7 +17,7 @@ The application will allow users to book rockets and join selected space mission
 
 ## Live Demo
 
-[Live Demo Link](https://bavon-emmanuel-space-hub.herokuapp.com/missions)
+[Live Demo Link](https://eloquent-sundae-a25728.netlify.app)
 
 ## Getting Started
 
